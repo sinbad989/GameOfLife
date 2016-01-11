@@ -51,3 +51,4 @@ class GameOfLife:
             self.labelList1[i]["image"]= self.cardList1[i]
 
             
+#Underconstruction 
